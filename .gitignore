@@ -3,10 +3,4 @@ data/twitter_auth_priv.txt
 corpus_cast.ipynb
 markov_modeling.ipynb
 .ipynb_checkpoints/
-data/emma.txt
-data/gigi_transcripts.txt
-data/gigi_tweets.txt
-data/mystery.txt
-data/pathologic_dia.txt
-data/pathologic_script.txt
-data/scifi.txt
+data/txts/
