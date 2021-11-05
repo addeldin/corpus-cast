@@ -1,6 +1,10 @@
 
 data/twitter_auth_priv.txt
 corpus_cast.ipynb
-markov_modeling.ipynb
 .ipynb_checkpoints/
 data/txts/
+data/jsons/gigi_transcripts.json
+data/jsons/gigi_tweets.json
+data/jsons/mystery.json
+data/jsons/scifi.json
+data/jsons/test.json
