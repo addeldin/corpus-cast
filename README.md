@@ -33,6 +33,6 @@ There is another model managing object, nern the Stage Manager, for managing tex
 
 Note that nern requires scripts in the texts/scripts folder to be formatted a certain way. Each line should be a line of dialogue, formatted as:
 
-`Character: Dialogue.`
+`Character: Dialogue`
 
 You can then use nern-specific functions to make strings/markovify models based on certain characters, groups of characters, or of the script without any character tags. Basically, nern leverages the formatting of a script to let you do a little more detailed model-generation based on characters.
